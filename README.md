@@ -1,0 +1,2 @@
+# kiricoin
+small but strong 
